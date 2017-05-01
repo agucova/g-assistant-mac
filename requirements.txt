@@ -1,0 +1,9 @@
+click==6.7
+google_auth_oauthlib==0.0.1
+google_assistant_sdk==0.1.0
+grpcio==1.2.1
+setuptools==32.1.0
+rumps==0.2.2
+sounddevice==0.3.7
+protobuf==3.2.0
+grpc==0.3-19
